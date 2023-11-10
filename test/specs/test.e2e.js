@@ -4,7 +4,7 @@ const ProductPage = require('../pageobjects/product.page')
 const CartPage = require('../pageobjects/cart.page')
 
 
-describe('demo app', () => {
+describe('blaze demo application', () => {
     it('should sign up user', async () => {
         await HomePage.open("")
 
