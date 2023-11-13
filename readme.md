@@ -27,5 +27,5 @@ $ npm run wdio / npm test
 ```
     
 ## Notas
- como parte de un Ci/Cd es desable ejecutar estos test remplazando el driver de chrome por un de headless pues no necesita de un escritorio o manejadro de ventanas.
+ Como parte de un Ci/Cd es desable ejecutar estos test remplazando el driver de chrome por uno de headless pues no necesita de un escritorio o manejo de ventanas.
 `
