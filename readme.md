@@ -5,7 +5,7 @@
 
 ```sh
 $ npm i
-$ npm run wdio
+$ npm run wdio / npm test
 ```
 ## Report info
 
